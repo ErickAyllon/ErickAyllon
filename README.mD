@@ -1,7 +1,7 @@
 ### Hi there 👋
 ```javascript
 const Erick = {
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components, Sequelize],
   challenge: "I am doing the freeCodeCamp challenge focused on react",
   status: ["Always learning", "Repositories in process"],
