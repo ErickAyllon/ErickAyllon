@@ -3,7 +3,7 @@
 const Erick = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components, Sequelize],
-  challenge: "I am doing the freeCodeCamp challenge focused on react",
+  challenge: "I am doing the freeCodeCamp challenge focused on react and I'm practicing with HackerRank",
   status: ["Always learning", "Repositories in process"],
 }
 ```
